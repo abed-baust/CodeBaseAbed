@@ -13,6 +13,9 @@
 
             app.UseHttpsRedirection();
 
+            //For minimal API Call
+            app.ConfigureApi();
+
             app.UseAuthorization();
 
             app.MapControllers();
