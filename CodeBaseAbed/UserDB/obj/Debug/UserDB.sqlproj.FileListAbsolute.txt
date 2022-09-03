@@ -1,0 +1,10 @@
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\bin\Debug\UserDB.dll
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\bin\Debug\UserDB.pdb
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\obj\Debug\Model.xml
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\obj\Debug\refactor.xml
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\obj\Debug\postdeploy.sql
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\obj\Debug\predeploy.sql
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\obj\Debug\UserDB.dll
+C:\Users\abedb\Desktop\Git\CodeBase\CodeBaseAbed\UserDB\obj\Debug\UserDB.pdb
